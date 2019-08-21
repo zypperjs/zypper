@@ -1,0 +1,25 @@
+{
+  "name": "zipper",
+  "version": "0.1.0",
+  "description": "Zipper (zíper) é um CMS alternativo para gestão de conteúdo na internet.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zypperjs/zypper.git"
+  },
+  "keywords": [
+    "zipper",
+    "cms",
+    "content",
+    "management"
+  ],
+  "author": "Gilberto Albino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zypperjs/zypper/issues"
+  },
+  "homepage": "https://github.com/zypperjs/zypper#readme"
+}

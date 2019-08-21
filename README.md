@@ -1,2 +1,2 @@
 # Zypper
-Zipper (zíper) é um CMS (content management system) alternativo para gestão de conteúdo na internet.
+Zipper (zíper) é um CMS alternativo para gestão de conteúdo na internet.

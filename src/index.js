@@ -1,6 +1,6 @@
 /**
  * Zipper (zíper) 
- * é um CMS (content management system) alternativo
+ * é um CMS alternativo
  * para gestão de conteúdo na internet.
  * 
  * @author Gilberto Albino
